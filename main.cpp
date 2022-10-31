@@ -8,12 +8,12 @@
 #include "test.h"
 #include <unistd.h>
 //#include "nowcoder/zprintTree.h"
-#include "6.h"
+#include "93.h"
 
 using namespace std;
 
 vector<string> res;
 
 int main() {
-    Solution().convert("PAYPALISHIRING",4);
+    Solution().restoreIpAddresses("25525511135");
 }
