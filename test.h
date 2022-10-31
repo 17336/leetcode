@@ -13,5 +13,5 @@
 using namespace std;
 
 class qsort{
-    >
+
 };
