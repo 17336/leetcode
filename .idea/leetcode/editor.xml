@@ -212,6 +212,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1061]按字典序排列最小的等效字符串.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1061]按字典序排列最小的等效字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1061" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1061]按字典序排列最小的等效字符串.cpp" />
+              <option name="titleSlug" value="lexicographically-smallest-equivalent-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1263]推箱子.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[1263]推箱子.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1263" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1263]推箱子.cpp" />
+              <option name="titleSlug" value="minimum-moves-to-move-a-box-to-their-target-location" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[797]所有可能的路径.cpp">
           <value>
             <LeetcodeEditor>

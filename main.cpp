@@ -8,7 +8,7 @@
 #include "test.h"
 #include <unistd.h>
 //#include "nowcoder/zprintTree.h"
-#include "1604.h"
+#include "1061best.h"
 
 using namespace std;
 
@@ -16,5 +16,5 @@ vector<string> res;
 
 int main() {
     std::vector<string> a{"daniel","daniel","daniel","luis","luis","luis","luis"},b{"10:00","10:40","11:00","09:00","11:00","13:00","15:00"};
-    Solution().alertNames(a,b);
+    Solution().smallestEquivalentString("parker","morris","parser");
 }
