@@ -13,7 +13,7 @@ using namespace std;
 class Solution {
     vector<int> childs;
 public:
-    int countHighestSco.reNodes(vector<int> &parents) {
+    int countHighestScoreNodes(vector<int> &parents) {
         int n = parents.size();
         vector<pair<int, int>> tree(n, {-1, -1});
         for (int i = 1; i < n; ++i) {

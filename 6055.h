@@ -20,7 +20,7 @@ public:
         gap%=15
 
         res+=gap/5;
-        gap%=5;.
+        gap%=5;
 
         res+=gap;
         return res;
