@@ -33,6 +33,7 @@ public:
         }
         dps(grid,x2,y2,canMove);
         if(canMove[x1][y1]==0) return -1;
+        visited[x1][y1]=1;
         return minPushBox(grid,dp,visited,canMove,x1,y1);
     }
 
@@ -55,7 +56,7 @@ public:
         int res=-1;
         for (int i = 0; i < 4; ++i) {
             int nx = x + steps[i], ny = y + steps[i + 1];
-            int px = 2 * nx - x, py = 2 * ny - y;
+            int px = 2 * x - nx, py = 2 * y - ny;
             if (nx >= 0 && nx < m && ny >= 0 && ny < n && visited[nx][ny]==0 &&grid[nx][ny] != '#' &&
                 px >= 0 && px < m && py >= 0 && py < n && canMove[px][py]) {
                 visited[nx][ny]=1;

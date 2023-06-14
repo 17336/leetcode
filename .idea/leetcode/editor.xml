@@ -234,6 +234,61 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2446]判断两个事件是否存在冲突.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[2446]判断两个事件是否存在冲突.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2446" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2446]判断两个事件是否存在冲突.cpp" />
+              <option name="titleSlug" value="determine-if-two-events-have-conflict" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2682]找出转圈游戏输家.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[2682]找出转圈游戏输家.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2682" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2682]找出转圈游戏输家.cpp" />
+              <option name="titleSlug" value="find-the-losers-of-the-circular-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2683]相邻值的按位异或.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[2683]相邻值的按位异或.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2683" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2683]相邻值的按位异或.cpp" />
+              <option name="titleSlug" value="neighboring-bitwise-xor" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2684]矩阵中移动的最大次数.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[2684]矩阵中移动的最大次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2684" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[2684]矩阵中移动的最大次数.cpp" />
+              <option name="titleSlug" value="maximum-number-of-moves-in-a-grid" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[343]整数拆分.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[343]整数拆分.md" />
+              <option name="frontendQuestionId" value="leetcode.cn343" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[343]整数拆分.cpp" />
+              <option name="titleSlug" value="integer-break" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[797]所有可能的路径.cpp">
           <value>
             <LeetcodeEditor>
@@ -242,6 +297,83 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[797]所有可能的路径.cpp" />
               <option name="titleSlug" value="all-paths-from-source-to-target" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[LCP 01]猜数字.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[LCP 01]猜数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCP 01" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[LCP 01]猜数字.cpp" />
+              <option name="titleSlug" value="guess-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[LCP 02]分式化简.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[LCP 02]分式化简.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCP 02" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[LCP 02]分式化简.cpp" />
+              <option name="titleSlug" value="deep-dark-fraction" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[LCP 03]机器人大冒险.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[LCP 03]机器人大冒险.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCP 03" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[LCP 03]机器人大冒险.cpp" />
+              <option name="titleSlug" value="programmable-robot" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 14- I]剪绳子.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[剑指 Offer 14- I]剪绳子.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 14- I" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer 14- I]剪绳子.cpp" />
+              <option name="titleSlug" value="jian-sheng-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[面试题 01.01]判定字符是否唯一.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[面试题 01.01]判定字符是否唯一.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.01" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[面试题 01.01]判定字符是否唯一.cpp" />
+              <option name="titleSlug" value="is-unique-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[面试题 01.02]判定是否互为字符重排.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[面试题 01.02]判定是否互为字符重排.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.02" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[面试题 01.02]判定是否互为字符重排.cpp" />
+              <option name="titleSlug" value="check-permutation-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[面试题 01.03]URL化.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/doc/content/[面试题 01.03]URL化.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.03" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[面试题 01.03]URL化.cpp" />
+              <option name="titleSlug" value="string-to-url-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>
